@@ -1,6 +1,7 @@
 $(document).ready(function () {
   // $("#token_selected_swap_form").hide();
 
+
   $("#close_notifi").click(function () {
     $("#notifi").hide();
   });
